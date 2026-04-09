@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kindi_WellnessApp</string>
+    <string name="health_and_wellness">Health And Wellness</string>
+    <string name="healthy_recipes">Healthy Recipes</string>
+    <string name="nutrition_advice">Nutrition Advice</string>
+    <string name="meditation">Meditation</string>
+    <string name="hydration_alert">Hydration Alert</string>
+    <string name="start_exercise">Start Exercise</string>
+    <string name="daily_motivation">Daily Motivation</string>
+    <string name="weekly_goals">Weekly Goals</string>
+    <string name="check_progress">Check Progress</string>
+    <string name="healthy_recipes_content">
+        Healthy Recipes\n\n1.
+        Fruit Salad \nA mix of fresh fruits like bananas, apples and oranges.\n\n2.
+        Grilled Chicken \nLow-fat grilled chicken served with vegetables.\n\n3.
+        Vegetable Stir fry\nCarrots, broccoli and pepper cooked lightly.\n\n4.
+        Oatmeal Breakfast\nOats with milk and fruits.\n\n5.
+        Avocado Toast\nWhole grain bread topped with avocado.\n\n6.
+        Boiled Eggs\nRich in protein and easy to prepare.\n\n7.
+        Smoothie Bowl\nBlended fruits with yoghurt and nuts.\n\n8.
+        Brown Rice and Beans\nHealthy and full of fiber.\n\n9.
+        Baked Fish\nFish baked with lemon and spices.\n\n10.
+        Greek Yoghurt with Honey\nGood for digestion and very nutritious.
+    </string>
+    <string name="nutrition_advice_content">
+        Advice:\n\n1.
+        Hydration first — Drink plenty of water, unsweetened tea, or black coffee. Limit sugary drinks and alcohol.\n\n2.
+        Build balanced meals — Include protein + fiber-rich veggies + healthy fat for satiety.\n\n3.
+        Limit added sugars — Keep under 10% of daily calories (ideally much less). Avoid sugary beverages entirely.\n\n4.
+        Read labels — Watch for hidden sugars, sodium, and ultra-processed ingredients.\n\n5.
+        Meal prep smartly — Batch-cook proteins and veggies. Keep healthy snacks (nuts, fruit, yogurt) accessible.\n\n6.
+        Eat mindfully — Pay attention to hunger/fullness cues. Enjoy meals without distractions when possible.\n\n7.
+        Stay active — Pair nutrition with movement (150+ minutes moderate activity per week for adults).\n
+    </string>
+</resources>
