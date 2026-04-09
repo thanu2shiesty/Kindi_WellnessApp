@@ -1,0 +1,7 @@
+com.example.kindi_wellnessapp-pngs-0 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/build/generated/res/pngs/debug
+com.example.kindi_wellnessapp-updated_navigation_xml-1 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/build/generated/updated_navigation_xml/debug
+com.example.kindi_wellnessapp-packageDebugResources-2 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.kindi_wellnessapp-packageDebugResources-3 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.kindi_wellnessapp-debug-4 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.kindi_wellnessapp-debug-5 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/src/debug/res
+com.example.kindi_wellnessapp-main-6 /home/user/AndroidStudioProjects/Kindi_WellnessApp/app/src/main/res
